@@ -1,0 +1,14 @@
+img {
+    width: 100%;
+}
+html {
+    text-align: center;
+}
+
+div.item {
+    padding-top: 10x;
+    padding-bottom: 10px;
+    border-top: 1px gray solid;
+    border-left: 0.5px gray solid;
+    border-right: 0.5px gray solid;
+}
