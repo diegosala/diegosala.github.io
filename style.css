@@ -1,14 +1,15 @@
 img {
-    width: 100%;
+  max-width: 100%;
+  max-height: 350px;
 }
 html {
-    text-align: center;
+  text-align: center;
 }
 
 div.item {
-    padding-top: 10x;
-    padding-bottom: 10px;
-    border-top: 1px gray solid;
-    border-left: 0.5px gray solid;
-    border-right: 0.5px gray solid;
+  padding-top: 10x;
+  padding-bottom: 10px;
+  border-top: 1px gray solid;
+  border-left: 0.5px gray solid;
+  border-right: 0.5px gray solid;
 }
